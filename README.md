@@ -21,4 +21,4 @@ This repository contains the code for a fun and interactive proposal website.  I
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+  [https://unkown812.github.io/proposal.github.io/]
