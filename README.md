@@ -1,4 +1,4 @@
-# AI-Powered Proposal Website
+# Love-Powered Proposal Website
 
 This repository contains the code for a fun and interactive proposal website.  It uses HTML, CSS, and JavaScript to create a multi-step animation leading up to a proposal message, with "Yes" and "No" button options.  A "success" page is displayed if the user clicks "Yes," and a "failure" page with a feedback form is shown if they click "No."
 
